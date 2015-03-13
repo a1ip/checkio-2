@@ -1,2 +1,2 @@
 # checkio
-Checkio,com Stuff 
+Checkio.com Stuff 

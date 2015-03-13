@@ -6,7 +6,8 @@ def checkio():
     (elements which are contained in a given list only once).
     When solving this task, do not change the order of the list.
     Example: [1, 2, 3, 1, 3] 1 and 3 non-unique elements and result will be [1, 3, 1, 3].
-  
+    
+    Source: http://www.tutorialspoint.com/python/python_lists.htm
     '''
 
     print('Please enter some numbers (separated by a space): ')
